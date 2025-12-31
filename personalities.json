@@ -1,0 +1,6 @@
+{
+  "Witty": { "humor": 0.8, "sarcasm": 0.5, "expressiveness": 0.6 },
+  "Calm": { "humor": 0.2, "sarcasm": 0.1, "expressiveness": 0.3 },
+  "Sarcastic": { "humor": 0.6, "sarcasm": 0.9, "expressiveness": 0.5 },
+  "Humble": { "humor": 0.3, "sarcasm": 0.1, "expressiveness": 0.4 }
+}
