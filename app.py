@@ -2,7 +2,6 @@ import sys
 import os
 sys.path.append(os.path.dirname(os.path.abspath(__file__)))
 
-import streamlit as st
 from engine.intent import detect_intent
 from engine.emotion import detect_emotion
 from engine.personality import load_personality
